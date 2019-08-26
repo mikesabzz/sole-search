@@ -9,10 +9,10 @@ class Navbar extends React.Component {
     return (
       <div>
         <div className="navbar">
-          <Link to="/home/">Home</Link>
+          <Link to="/">Home</Link>
           <Link to="/mens/">Mens</Link>
         </div>
-        <Route path="/home/" component={Home} />
+        <Route exact path="/" component={Home} />
         <Route path="/mens/" component={Mens} />
       </div>
     );
