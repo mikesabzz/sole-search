@@ -9,11 +9,13 @@ class Navbar extends React.Component {
     return (
       <div>
         <div className="navbar">
-          <Link to="/">Home</Link>
+          <Link>Womens</Link>
           <Link to="/mens/">Mens</Link>
+          <Link>Kids</Link> {/*DEADLINK*/}
+          <Link>Brands</Link> {/*DEADLINK*/}
+          <Link>Sale</Link> {/*DEADLINK*/}
         </div>
         <Switch>
-          <Route exact path="/" component={Home} />
           <Route path="/mens/" component={Mens} />
         </Switch>
       </div>
