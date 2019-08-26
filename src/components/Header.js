@@ -6,7 +6,7 @@ import { Route, Link } from "react-router-dom";
 function Header() {
   return (
     <div className="header">
-      <Link to="/">Home</Link>
+      <Link to="/">Home</Link> {/*THIS WILL BE THE LOGO BUTTON*/}
       Header
       <Navbar></Navbar>
       <Route exact path="/" component={Home} />
