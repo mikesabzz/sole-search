@@ -1,7 +1,22 @@
 import React from "react";
+import { Route, Link } from "react-router-dom";
 
-function Navbar() {
-  return <div className="navbar">navbar</div>;
+import Home from "./Home";
+import Mens from "./Mens";
+
+class Navbar extends React.Component {
+  render() {
+    return (
+      <div>
+        <div className="navbar">
+          <Link to="/home/">Home</Link>
+          <Link to="/mens/">Mens</Link>
+        </div>
+        <Route path="/home/" component={Home} />
+        <Route path="/mens/" component={Mens} />
+      </div>
+    );
+  }
 }
 
 export default Navbar;
