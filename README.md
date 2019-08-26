@@ -1,5 +1,5 @@
-##How To Run App
+# How To Run App
 
-git clone
-npm install
-npm start 
+* git clone
+* npm install
+* npm start 
