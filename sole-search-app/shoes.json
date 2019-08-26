@@ -1,0 +1,218 @@
+[
+  {
+    "Brand": "Keds",
+    "Type": "Betty & Veronica",
+    "Color": "Gray",
+    "Size": 11,
+    "Width": "D",
+    "Price": "$50-$80",
+    "Image Link": "https://m.media-amazon.com/images/I/71rwwq0jmnL._SX700_.jpg"
+  },
+  {
+    "Brand": "New Balance",
+    "Type": "574",
+    "Color": "White",
+    "Size": 12,
+    "Width": "D",
+    "Price": "$100-$140",
+    "Image Link": "https://m.media-amazon.com/images/I/71AvLijTH+L._SX700_.jpg"
+  },
+  {
+    "Brand": "Nike",
+    "Type": "Pegasus",
+    "Color": "White",
+    "Size": 12,
+    "Width": "2E",
+    "Price": "$75-$120",
+    "Image Link": "https://m.media-amazon.com/images/I/81XIb89m8xL._SX700_.jpg"
+  },
+  {
+    "Brand": "New Balance",
+    "Type": "Fuel Cell",
+    "Color": "Blue",
+    "Size": 10,
+    "Width": "B",
+    "Price": "$90-$135",
+    "Image Link": "https://m.media-amazon.com/images/I/814yLdJ-ZtL._SX700_.jpg"
+  },
+  {
+    "Brand": "Puma",
+    "Type": "Originals",
+    "Color": "Black",
+    "Size": 9,
+    "Width": "B",
+    "Price": "$50-$75",
+    "Image Link": "https://m.media-amazon.com/images/I/715y7ydPRIL._SX700_.jpg"
+  },
+  {
+    "Brand": "Under Armour",
+    "Type": "Running",
+    "Color": "Gray",
+    "Size": 9.5,
+    "Width": "B",
+    "Price": "$85-$100",
+    "Image Link": "https://m.media-amazon.com/images/I/81ZVaFocB4L._SX700_.jpg"
+  },
+  {
+    "Brand": "Under Armour",
+    "Type": "Cross Train",
+    "Color": "Blue",
+    "Size": 10.5,
+    "Width": "B",
+    "Price": "$90-$135",
+    "Image Link": "https://m.media-amazon.com/images/I/81TBo8EFubL._SX700_.jpg"
+  },
+  {
+    "Brand": "Gola",
+    "Type": "Specials",
+    "Color": "Mint",
+    "Size": 11.5,
+    "Width": "D",
+    "Price": "$50-$75",
+    "Image Link": "https://m.media-amazon.com/images/I/81jkkWwAWiL._SX700_.jpg"
+  },
+  {
+    "Brand": "New Balance",
+    "Type": "Fresh Form",
+    "Color": "Red",
+    "Size": 13,
+    "Width": "2E",
+    "Price": "$80-$140",
+    "Image Link": "https://m.media-amazon.com/images/I/81Ib+AYxoxL._SX700_.jpg"
+  },
+  {
+    "Brand": "New Balance",
+    "Type": "Polka Dots",
+    "Color": "Gray",
+    "Size": 9,
+    "Width": "B",
+    "Price": "$75-$125",
+    "Image Link": "https://m.media-amazon.com/images/I/71MOXxoSbpL._SX700_.jpg"
+  },
+  {
+    "Brand": "Globe",
+    "Type": "Chimchaws",
+    "Color": "Black",
+    "Size": 9.5,
+    "Width": "B",
+    "Price": "$80-$120",
+    "Image Link": "https://m.media-amazon.com/images/I/71Gir5iDWPL._SX700_.jpg"
+  },
+  {
+    "Brand": "Asics",
+    "Type": "Tiger",
+    "Color": "Black",
+    "Size": 10,
+    "Width": "B",
+    "Price": "$50-$65",
+    "Image Link": "https://m.media-amazon.com/images/I/71Gir5iDWPL._SX700_.jpg"
+  },
+  {
+    "Brand": "Adidas",
+    "Type": "Daily 2.0",
+    "Color": "Gray",
+    "Size": 10,
+    "Width": "B",
+    "Price": "$50-$75",
+    "Image Link": "https://images-na.ssl-images-amazon.com/images/I/71zPDUDdZ6L._UL695_.jpg"
+  },
+  {
+    "Brand": "Vans",
+    "Type": "Old Skool",
+    "Color": "Black",
+    "Size": 10.5,
+    "Width": "B",
+    "Price": "$100-$140",
+    "Image Link": "https://images-na.ssl-images-amazon.com/images/I/61tJ57n3LOL._UL695_.jpg"
+  },
+  {
+    "Brand": "Adidas",
+    "Type": "Samba",
+    "Color": "Black",
+    "Size": 11,
+    "Width": "D",
+    "Price": "$75-$120",
+    "Image Link": "https://images-na.ssl-images-amazon.com/images/I/81Loz0gScWL._UL695_.jpg"
+  },
+  {
+    "Brand": "Nike",
+    "Type": "Dunk Flykn it",
+    "Color": "White",
+    "Size": 11,
+    "Width": "B",
+    "Price": "$90-$135",
+    "Image Link": "https://images-na.ssl-images-amazon.com/images/I/81ODSN2JPbL._UX695_.jpg"
+  },
+  {
+    "Brand": "Nike",
+    "Type": "SB Dunk High",
+    "Color": "Orange",
+    "Size": 11.5,
+    "Width": "D",
+    "Price": "$50-$75",
+    "Image Link": "https://images-na.ssl-images-amazon.com/images/I/81eQvge%2BssL._UX695_.jpg"
+  },
+  {
+    "Brand": "Nike",
+    "Type": "SB Dunk Low Skateboarding",
+    "Color": "Gray",
+    "Size": 12,
+    "Width": "2E",
+    "Price": "$85-$100",
+    "Image Link": "https://images-na.ssl-images-amazon.com/images/I/71TKuKq0LyL._UX695_.jpg"
+  },
+  {
+    "Brand": "Nike",
+    "Type": "Revolution",
+    "Color": "Gray",
+    "Size": 10,
+    "Width": "B",
+    "Price": "$90-$135",
+    "Image Link": "https://images-na.ssl-images-amazon.com/images/I/81hlDHwwJ%2BL._UX695_.jpg"
+  },
+  {
+    "Brand": "Lacoste",
+    "Type": "Bayliss",
+    "Color": "Red",
+    "Size": 8,
+    "Width": "B",
+    "Price": "$50-$75",
+    "Image Link": "https://images-na.ssl-images-amazon.com/images/I/717860irJoL._UX695_.jpg"
+  },
+  {
+    "Brand": "Lacoste",
+    "Type": "Sideline",
+    "Color": "White",
+    "Size": 8.5,
+    "Width": "B",
+    "Price": "$80-$140",
+    "Image Link": "https://images-na.ssl-images-amazon.com/images/I/61ydEsL5SlL._UX695_.jpg"
+  },
+  {
+    "Brand": "New Balance",
+    "Type": "997H",
+    "Color": "White",
+    "Size": 9,
+    "Width": "B",
+    "Price": "$75-$125",
+    "Image Link": "https://images-na.ssl-images-amazon.com/images/I/71qxsjyoY8L._UX695_.jpg"
+  },
+  {
+    "Brand": "New Balance",
+    "Type": "M1540",
+    "Color": "Gray",
+    "Size": 9.5,
+    "Width": "B",
+    "Price": "$80-$120",
+    "Image Link": "https://images-na.ssl-images-amazon.com/images/I/81Vwgaozq-L._UX695_.jpg"
+  },
+  {
+    "Brand": "Asics ",
+    "Type": "Running",
+    "Color": "Blue",
+    "Size": 9.5,
+    "Width": "B",
+    "Price": "$50-$100",
+    "Image Link": "https://images-na.ssl-images-amazon.com/images/I/61E0FqQrc6L._UX695_.jpg"
+  }
+]
