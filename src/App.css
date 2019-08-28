@@ -4,10 +4,17 @@
 
 .mens-container {
   border: solid black 1px;
+  display: flex;
+  flex-direction: row;
 }
 
 .filter-column-wrapper {
   border: solid black 1px;
+}
+
+.shoecard-container {
+  display: flex;
+  flex-flow: row wrap;
 }
 
 .shoecard {

@@ -15,11 +15,21 @@ class Mens extends React.Component {
     this.setState({ shoesToDisplay: allShoes });
   }
 
+  handleFilter = e => {
+    e.preventDefault();
+    let filteredShoes = this.state.shoes.filter(shoe => {
+      return shoe.Color === e.target.value;
+    });
+    this.setState({ shoesToDisplay: filteredShoes });
+  };
+
   renderShoes = () => {
     return this.state.shoesToDisplay.map((shoe, index) => {
       const { Brand, Type, Color, Size, Width, Price, imgURL } = shoe;
       return (
         <MensShoeCard
+          key={index}
+          price={Price}
           brand={Brand}
           type={Type}
           color={Color}
@@ -31,11 +41,9 @@ class Mens extends React.Component {
     });
   };
   render() {
-    console.log(allShoes);
     return (
       <div className="mens-container">
-        Mens
-        <FilterColumn></FilterColumn>
+        <FilterColumn handleFilter={this.handleFilter} />
         <div className="shoecard-container">{this.renderShoes()}</div>
       </div>
     );

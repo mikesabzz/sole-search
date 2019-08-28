@@ -5,6 +5,7 @@ function MensShoeCard(props) {
   return (
     <div className="shoecard">
       <img src={props.imgURL} className="shoe-image" alt=""></img>
+      <div>{props.price}</div>
       <div>{props.brand}</div>
       <div>{props.type}</div>
       <div>{props.color}</div>
