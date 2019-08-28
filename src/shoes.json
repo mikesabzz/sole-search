@@ -6,7 +6,7 @@
     "Size": 11,
     "Width": "D",
     "Price": "$50-$80",
-    "Image Link": "https://m.media-amazon.com/images/I/71rwwq0jmnL._SX700_.jpg"
+    "imgURL": "https://m.media-amazon.com/images/I/71rwwq0jmnL._SX700_.jpg"
   },
   {
     "Brand": "New Balance",
@@ -15,7 +15,7 @@
     "Size": 12,
     "Width": "D",
     "Price": "$100-$140",
-    "Image Link": "https://m.media-amazon.com/images/I/71AvLijTH+L._SX700_.jpg"
+    "imgURL": "https://m.media-amazon.com/images/I/71AvLijTH+L._SX700_.jpg"
   },
   {
     "Brand": "Nike",
@@ -24,7 +24,7 @@
     "Size": 12,
     "Width": "2E",
     "Price": "$75-$120",
-    "Image Link": "https://m.media-amazon.com/images/I/81XIb89m8xL._SX700_.jpg"
+    "imgURL": "https://m.media-amazon.com/images/I/81XIb89m8xL._SX700_.jpg"
   },
   {
     "Brand": "New Balance",
@@ -33,7 +33,7 @@
     "Size": 10,
     "Width": "B",
     "Price": "$90-$135",
-    "Image Link": "https://m.media-amazon.com/images/I/814yLdJ-ZtL._SX700_.jpg"
+    "imgURL": "https://m.media-amazon.com/images/I/814yLdJ-ZtL._SX700_.jpg"
   },
   {
     "Brand": "Puma",
@@ -42,7 +42,7 @@
     "Size": 9,
     "Width": "B",
     "Price": "$50-$75",
-    "Image Link": "https://m.media-amazon.com/images/I/715y7ydPRIL._SX700_.jpg"
+    "imgURL": "https://m.media-amazon.com/images/I/715y7ydPRIL._SX700_.jpg"
   },
   {
     "Brand": "Under Armour",
@@ -51,7 +51,7 @@
     "Size": 9.5,
     "Width": "B",
     "Price": "$85-$100",
-    "Image Link": "https://m.media-amazon.com/images/I/81ZVaFocB4L._SX700_.jpg"
+    "imgURL": "https://m.media-amazon.com/images/I/81ZVaFocB4L._SX700_.jpg"
   },
   {
     "Brand": "Under Armour",
@@ -60,7 +60,7 @@
     "Size": 10.5,
     "Width": "B",
     "Price": "$90-$135",
-    "Image Link": "https://m.media-amazon.com/images/I/81TBo8EFubL._SX700_.jpg"
+    "imgURL": "https://m.media-amazon.com/images/I/81TBo8EFubL._SX700_.jpg"
   },
   {
     "Brand": "Gola",
@@ -69,7 +69,7 @@
     "Size": 11.5,
     "Width": "D",
     "Price": "$50-$75",
-    "Image Link": "https://m.media-amazon.com/images/I/81jkkWwAWiL._SX700_.jpg"
+    "imgURL": "https://m.media-amazon.com/images/I/81jkkWwAWiL._SX700_.jpg"
   },
   {
     "Brand": "New Balance",
@@ -78,7 +78,7 @@
     "Size": 13,
     "Width": "2E",
     "Price": "$80-$140",
-    "Image Link": "https://m.media-amazon.com/images/I/81Ib+AYxoxL._SX700_.jpg"
+    "imgURL": "https://m.media-amazon.com/images/I/81Ib+AYxoxL._SX700_.jpg"
   },
   {
     "Brand": "New Balance",
@@ -87,7 +87,7 @@
     "Size": 9,
     "Width": "B",
     "Price": "$75-$125",
-    "Image Link": "https://m.media-amazon.com/images/I/71MOXxoSbpL._SX700_.jpg"
+    "imgURL": "https://m.media-amazon.com/images/I/71MOXxoSbpL._SX700_.jpg"
   },
   {
     "Brand": "Globe",
@@ -96,7 +96,7 @@
     "Size": 9.5,
     "Width": "B",
     "Price": "$80-$120",
-    "Image Link": "https://m.media-amazon.com/images/I/71Gir5iDWPL._SX700_.jpg"
+    "imgURL": "https://m.media-amazon.com/images/I/71Gir5iDWPL._SX700_.jpg"
   },
   {
     "Brand": "Asics",
@@ -105,7 +105,7 @@
     "Size": 10,
     "Width": "B",
     "Price": "$50-$65",
-    "Image Link": "https://m.media-amazon.com/images/I/71Gir5iDWPL._SX700_.jpg"
+    "imgURL": "https://m.media-amazon.com/images/I/71Gir5iDWPL._SX700_.jpg"
   },
   {
     "Brand": "Adidas",
@@ -114,7 +114,7 @@
     "Size": 10,
     "Width": "B",
     "Price": "$50-$75",
-    "Image Link": "https://images-na.ssl-images-amazon.com/images/I/71zPDUDdZ6L._UL695_.jpg"
+    "imgURL": "https://images-na.ssl-images-amazon.com/images/I/71zPDUDdZ6L._UL695_.jpg"
   },
   {
     "Brand": "Vans",
@@ -123,7 +123,7 @@
     "Size": 10.5,
     "Width": "B",
     "Price": "$100-$140",
-    "Image Link": "https://images-na.ssl-images-amazon.com/images/I/61tJ57n3LOL._UL695_.jpg"
+    "imgURL": "https://images-na.ssl-images-amazon.com/images/I/61tJ57n3LOL._UL695_.jpg"
   },
   {
     "Brand": "Adidas",
@@ -132,7 +132,7 @@
     "Size": 11,
     "Width": "D",
     "Price": "$75-$120",
-    "Image Link": "https://images-na.ssl-images-amazon.com/images/I/81Loz0gScWL._UL695_.jpg"
+    "imgURL": "https://images-na.ssl-images-amazon.com/images/I/81Loz0gScWL._UL695_.jpg"
   },
   {
     "Brand": "Nike",
@@ -141,7 +141,7 @@
     "Size": 11,
     "Width": "B",
     "Price": "$90-$135",
-    "Image Link": "https://images-na.ssl-images-amazon.com/images/I/81ODSN2JPbL._UX695_.jpg"
+    "imgURL": "https://images-na.ssl-images-amazon.com/images/I/81ODSN2JPbL._UX695_.jpg"
   },
   {
     "Brand": "Nike",
@@ -150,7 +150,7 @@
     "Size": 11.5,
     "Width": "D",
     "Price": "$50-$75",
-    "Image Link": "https://images-na.ssl-images-amazon.com/images/I/81eQvge%2BssL._UX695_.jpg"
+    "imgURL": "https://images-na.ssl-images-amazon.com/images/I/81eQvge%2BssL._UX695_.jpg"
   },
   {
     "Brand": "Nike",
@@ -159,7 +159,7 @@
     "Size": 12,
     "Width": "2E",
     "Price": "$85-$100",
-    "Image Link": "https://images-na.ssl-images-amazon.com/images/I/71TKuKq0LyL._UX695_.jpg"
+    "imgURL": "https://images-na.ssl-images-amazon.com/images/I/71TKuKq0LyL._UX695_.jpg"
   },
   {
     "Brand": "Nike",
@@ -168,7 +168,7 @@
     "Size": 10,
     "Width": "B",
     "Price": "$90-$135",
-    "Image Link": "https://images-na.ssl-images-amazon.com/images/I/81hlDHwwJ%2BL._UX695_.jpg"
+    "imgURL": "https://images-na.ssl-images-amazon.com/images/I/81hlDHwwJ%2BL._UX695_.jpg"
   },
   {
     "Brand": "Lacoste",
@@ -177,7 +177,7 @@
     "Size": 8,
     "Width": "B",
     "Price": "$50-$75",
-    "Image Link": "https://images-na.ssl-images-amazon.com/images/I/717860irJoL._UX695_.jpg"
+    "imgURL": "https://images-na.ssl-images-amazon.com/images/I/717860irJoL._UX695_.jpg"
   },
   {
     "Brand": "Lacoste",
@@ -186,7 +186,7 @@
     "Size": 8.5,
     "Width": "B",
     "Price": "$80-$140",
-    "Image Link": "https://images-na.ssl-images-amazon.com/images/I/61ydEsL5SlL._UX695_.jpg"
+    "imgURL": "https://images-na.ssl-images-amazon.com/images/I/61ydEsL5SlL._UX695_.jpg"
   },
   {
     "Brand": "New Balance",
@@ -195,7 +195,7 @@
     "Size": 9,
     "Width": "B",
     "Price": "$75-$125",
-    "Image Link": "https://images-na.ssl-images-amazon.com/images/I/71qxsjyoY8L._UX695_.jpg"
+    "imgURL": "https://images-na.ssl-images-amazon.com/images/I/71qxsjyoY8L._UX695_.jpg"
   },
   {
     "Brand": "New Balance",
@@ -204,7 +204,7 @@
     "Size": 9.5,
     "Width": "B",
     "Price": "$80-$120",
-    "Image Link": "https://images-na.ssl-images-amazon.com/images/I/81Vwgaozq-L._UX695_.jpg"
+    "imgURL": "https://images-na.ssl-images-amazon.com/images/I/81Vwgaozq-L._UX695_.jpg"
   },
   {
     "Brand": "Asics ",
@@ -213,6 +213,6 @@
     "Size": 9.5,
     "Width": "B",
     "Price": "$50-$100",
-    "Image Link": "https://images-na.ssl-images-amazon.com/images/I/61E0FqQrc6L._UX695_.jpg"
+    "imgURL": "https://images-na.ssl-images-amazon.com/images/I/61E0FqQrc6L._UX695_.jpg"
   }
 ]
