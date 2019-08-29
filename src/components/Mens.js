@@ -17,8 +17,30 @@ class Mens extends React.Component {
 
   handleFilter = e => {
     e.preventDefault();
+    let { name, value } = e.target;
+    if (name === "Size") {
+      value = parseInt(value);
+    }
     let filteredShoes = this.state.shoes.filter(shoe => {
-      return shoe.Color === e.target.value;
+      return shoe[name] === value;
+    });
+
+    this.setState({ shoesToDisplay: filteredShoes });
+  };
+
+  handlePrice = e => {
+    let filteredShoes = this.state.shoes.filter(shoe => {
+      let priceString = shoe.Price;
+      let hyphenLocation = priceString.indexOf("-");
+      let price1 = priceString.substring(1, hyphenLocation);
+      let price2 = priceString.substring(
+        hyphenLocation + 2,
+        priceString.length
+      );
+      price1 = parseInt(price1);
+      price2 = parseInt(price2);
+      let { value } = e.target;
+      return value >= price1 && value <= price2;
     });
     this.setState({ shoesToDisplay: filteredShoes });
   };
@@ -43,7 +65,10 @@ class Mens extends React.Component {
   render() {
     return (
       <div className="mens-container">
-        <FilterColumn handleFilter={this.handleFilter} />
+        <FilterColumn
+          handleFilter={this.handleFilter}
+          handlePrice={this.handlePrice}
+        />
         <div className="shoecard-container">{this.renderShoes()}</div>
       </div>
     );
