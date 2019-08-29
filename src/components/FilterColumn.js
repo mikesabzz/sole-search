@@ -13,7 +13,7 @@ class FilterColumn extends React.Component {
         <form label="color">
           <h2>Color</h2>
           <select name="Color" onChange={this.props.handleFilter}>
-            <option>Select Color</option>
+            <option value="">Select Color</option>
             <option value="Black">Black</option>
             <option value="White">White</option>
             <option value="Gray">Gray</option>
@@ -27,7 +27,7 @@ class FilterColumn extends React.Component {
         <form label="size">
           <h2>Size</h2>
           <select name="Size" onChange={this.props.handleFilter}>
-            <option>Select Size</option>
+            <option value="">Select Size</option>
             <option value={8.0}>8.0</option>
             <option value={8.5}>8.5</option>
             <option value={9.0}>9.0</option>
@@ -45,7 +45,7 @@ class FilterColumn extends React.Component {
         <form label="width">
           <h2>Width</h2>
           <select name="Width" onChange={this.props.handleFilter}>
-            <option>Select Width</option>
+            <option value="">Select Width</option>
             <option value="B">B</option>
             <option value="D">D</option>
             <option value="2E">2E</option>
@@ -55,7 +55,7 @@ class FilterColumn extends React.Component {
         <form label="price">
           <h2>Price</h2>
           <select name="Price" onChange={this.props.handlePrice}>
-            <option>Select</option>
+            <option value="">Select Price</option>
             <option value={50}>$50</option>
             <option value={60}>$60</option>
             <option value={70}>$70</option>

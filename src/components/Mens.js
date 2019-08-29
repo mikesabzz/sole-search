@@ -18,31 +18,39 @@ class Mens extends React.Component {
   handleFilter = e => {
     e.preventDefault();
     let { name, value } = e.target;
-    if (name === "Size") {
-      value = parseInt(value);
-    }
-    let filteredShoes = this.state.shoes.filter(shoe => {
-      return shoe[name] === value;
-    });
+    if (value === "") {
+      this.setState({ shoesToDisplay: allShoes });
+    } else {
+      if (name === "Size") {
+        value = parseInt(value);
+      }
+      let filteredShoes = this.state.shoes.filter(shoe => {
+        return shoe[name] === value;
+      });
 
-    this.setState({ shoesToDisplay: filteredShoes });
+      this.setState({ shoesToDisplay: filteredShoes });
+    }
   };
 
   handlePrice = e => {
-    let filteredShoes = this.state.shoes.filter(shoe => {
-      let priceString = shoe.Price;
-      let hyphenLocation = priceString.indexOf("-");
-      let price1 = priceString.substring(1, hyphenLocation);
-      let price2 = priceString.substring(
-        hyphenLocation + 2,
-        priceString.length
-      );
-      price1 = parseInt(price1);
-      price2 = parseInt(price2);
-      let { value } = e.target;
-      return value >= price1 && value <= price2;
-    });
-    this.setState({ shoesToDisplay: filteredShoes });
+    let { value } = e.target;
+    if (value === "") {
+      this.setState({ shoesToDisplay: allShoes });
+    } else {
+      let filteredShoes = this.state.shoes.filter(shoe => {
+        let priceString = shoe.Price;
+        let hyphenLocation = priceString.indexOf("-");
+        let price1 = priceString.substring(1, hyphenLocation);
+        let price2 = priceString.substring(
+          hyphenLocation + 2,
+          priceString.length
+        );
+        price1 = parseInt(price1);
+        price2 = parseInt(price2);
+        return value >= price1 && value <= price2;
+      });
+      this.setState({ shoesToDisplay: filteredShoes });
+    }
   };
 
   renderShoes = () => {
